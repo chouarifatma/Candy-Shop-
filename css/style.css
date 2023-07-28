@@ -149,9 +149,7 @@ h2{
   background-color:rgb(255, 199, 199);
   display: flex;
   justify-content:top;
-
 }
-
 .fatmacontainer p {
   color: black;
   background-color:rgb(230, 110, 110) ;
@@ -415,3 +413,4 @@ h2{
   display: flex;
   justify-content: space-around;
 }
+    
